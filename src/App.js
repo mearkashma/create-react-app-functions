@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Wonderfull stuff coming soon, With Love from Arkashms</h1>    
+      <h1>Wonderfull stuff coming soon, With Love from Arkashma</h1>    
     </main>
   );
 }
